@@ -1,0 +1,14 @@
+#não usar TAB apenas SPACE
+spring:
+  application:
+    name: greeting-service
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+#Propriedade
+greeting-service:
+  greeting: "Cia"
+  default-value: "Mondo"
