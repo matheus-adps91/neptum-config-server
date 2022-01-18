@@ -1,1 +1,1 @@
-# npeptum-config-server
+# neptum-config-server
